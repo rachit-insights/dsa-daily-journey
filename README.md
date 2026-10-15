@@ -10,8 +10,9 @@ My daily DSA practice on LeetCode and GeeksforGeeks, documented with accepted-su
 | Date | Problems | Topics |
 |---|---:|---|
 | 14 Oct 2026 | 5 | Sorting, Linked List |
+| 15 Oct 2026 | 4 | Linked List, Binary Search, Arrays |
 
-**Total problems documented:** 5  
-**Active days:** 1
+**Total problems documented:** 9  
+**Active days:** 2
 
 See [Solved Problems](PROGRESS.md) for problem names, numbers, and screenshots.
