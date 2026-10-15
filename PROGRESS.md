@@ -1,5 +1,14 @@
 # Solved Problems
 
+## Day 2 — 15 October 2026
+
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | LeetCode | [View](screenshots/2026-10-15/lc-0234-palindrome-linked-list.png) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | LeetCode | [View](screenshots/2026-10-15/lc-0876-middle-of-the-linked-list.png) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | [View](screenshots/2026-10-15/lc-0704-binary-search.png) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | LeetCode | [View](screenshots/2026-10-15/lc-0283-move-zeroes.png) |
+
 ## Day 1 — 14 October 2026
 
 | # | Problem | Platform | Screenshot |
@@ -10,4 +19,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 5 problems**
+**Total: 9 problems**
