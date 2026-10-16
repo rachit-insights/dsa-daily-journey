@@ -1,5 +1,13 @@
 # Solved Problems
 
+## Day 3 — 16 October 2026
+
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode | [View](screenshots/2026-10-16/lc-0268-missing-number.png) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | LeetCode | [View](screenshots/2026-10-16/lc-0344-reverse-string.png) |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | LeetCode | [View](screenshots/2026-10-16/lc-0709-to-lower-case.png) |
+
 ## Day 2 — 15 October 2026
 
 | # | Problem | Platform | Screenshot |
@@ -19,4 +27,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 9 problems**
+**Total: 12 problems**
