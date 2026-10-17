@@ -1,5 +1,13 @@
 # Solved Problems
 
+## Day 4 — 17 October 2026
+
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | LeetCode | [View](screenshots/2026-10-17/lc-0035-search-insert-position.png) |
+| — | [Value Equal to Position](https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/1) | GeeksforGeeks | [View](screenshots/2026-10-17/gfg-value-equal-to-position.png) |
+| — | [Remove Cycle in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) | GeeksforGeeks | [View](screenshots/2026-10-17/gfg-remove-cycle-in-linked-list.png) |
+
 ## Day 3 — 16 October 2026
 
 | # | Problem | Platform | Screenshot |
@@ -27,4 +35,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 12 problems**
+**Total: 15 problems**
