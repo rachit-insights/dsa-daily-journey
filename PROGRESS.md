@@ -1,5 +1,13 @@
 # Solved Problems
 
+## Day 5 — 18 October 2026
+
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| — | [Reverse Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | GeeksforGeeks | [View](screenshots/2026-10-18/gfg-reverse-array.png) |
+| — | [Min and Max in Array](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | GeeksforGeeks | [View](screenshots/2026-10-18/gfg-min-and-max-in-array.png) |
+| — | [Kadane's Algorithm](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | GeeksforGeeks | [View](screenshots/2026-10-18/gfg-kadanes-algorithm.png) |
+
 ## Day 4 — 17 October 2026
 
 | # | Problem | Platform | Screenshot |
@@ -35,4 +43,5 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 15 problems**
+**Total: 18 problems**
+
