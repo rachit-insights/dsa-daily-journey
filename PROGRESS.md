@@ -1,5 +1,14 @@
 # Solved Problems
 
+## Day 6 — 19 October 2026
+
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | LeetCode | [View](screenshots/2026-10-19/lc-0287-find-the-duplicate-number.png) |
+| — | [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GeeksforGeeks | [View](screenshots/2026-10-19/gfg-kth-smallest.png) |
+| — | [Spirally Traversing Matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | GeeksforGeeks | [View](screenshots/2026-10-19/gfg-spirally-traversing-matrix.png) |
+
+
 ## Day 5 — 18 October 2026
 
 | # | Problem | Platform | Screenshot |
@@ -43,5 +52,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 18 problems**
-
+**Total: 21 problems**
