@@ -1,5 +1,14 @@
 # Solved Problems
 
+## Day 7 — 20 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| — | Palindrome String | Basic | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-palindrome-string.png) |
+| — | First and Last in Sorted | Medium | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-first-and-last-in-sorted.png) |
+| — | Middle of Three | Basic | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-middle-of-three.png) |
+| — | Majority Element | Medium | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-majority-element.png) |
+
 ## Day 6 — 19 October 2026
 
 | # | Problem | Platform | Screenshot |
@@ -52,4 +61,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 21 problems**
+**Total: 25 problems**
