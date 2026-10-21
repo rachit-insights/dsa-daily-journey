@@ -1,13 +1,23 @@
 # Solved Problems
 
+## Day 8 — 21 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| — | [Reverse Linked List](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | Easy | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-reverse-linked-list.png) |
+| — | [Detect Loop in Linked List](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-detect-loop-in-linked-list.png) |
+| — | [First Node of Loop in Linked List](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-first-node-of-loop-in-linked-list.png) |
+| — | [Move Last to Front of a Linked List](https://www.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1) | Easy | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-move-last-to-front-of-linked-list.png) |
+| — | [Search in a K-Step Array](https://www.geeksforgeeks.org/problems/search-in-an-array-where-adjacent-differ-by-at-most-k/1) | Easy | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-search-in-a-k-step-array.png) |
+
 ## Day 7 — 20 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
 |---|---|---|---|---|
-| — | Palindrome String | Basic | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-palindrome-string.png) |
-| — | First and Last in Sorted | Medium | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-first-and-last-in-sorted.png) |
-| — | Middle of Three | Basic | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-middle-of-three.png) |
-| — | Majority Element | Medium | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-majority-element.png) |
+| — | [Palindrome String](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Basic | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-palindrome-string.png) |
+| — | [First and Last in Sorted](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-first-and-last-in-sorted.png) |
+| — | [Middle of Three](https://www.geeksforgeeks.org/problems/middle-of-three2926/1) | Basic | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-middle-of-three.png) |
+| — | [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-majority-element.png) |
 
 ## Day 6 — 19 October 2026
 
@@ -16,7 +26,6 @@
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | LeetCode | [View](screenshots/2026-10-19/lc-0287-find-the-duplicate-number.png) |
 | — | [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | GeeksforGeeks | [View](screenshots/2026-10-19/gfg-kth-smallest.png) |
 | — | [Spirally Traversing Matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | GeeksforGeeks | [View](screenshots/2026-10-19/gfg-spirally-traversing-matrix.png) |
-
 
 ## Day 5 — 18 October 2026
 
@@ -61,4 +70,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 25 problems**
+**Total: 30 problems**
