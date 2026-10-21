@@ -1,3 +1,4 @@
+
 # DSA Daily Journey
 
 My daily DSA practice on LeetCode and GeeksforGeeks, documented with accepted-submission screenshots.
@@ -15,8 +16,10 @@ My daily DSA practice on LeetCode and GeeksforGeeks, documented with accepted-su
 | 17 Oct 2026 | 3 | Arrays, Linked List |
 | 18 Oct 2026 | 3 | Arrays, Kadane's Algorithm |
 | 19 Oct 2026 | 3 | Arrays, Sorting, Matrix |
+| 20 Oct 2026 | 4 | Strings, Arrays, Searching, Majority Vote |
+| 21 Oct 2026 | 5 | Linked List, Arrays |
 
-**Total problems documented:** 21  
-**Active days:** 6
+**Total problems documented:** 30  
+**Active days:** 8
 
 See [Solved Problems](PROGRESS.md) for problem names, numbers, and screenshots.
