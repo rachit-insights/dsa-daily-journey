@@ -1,5 +1,14 @@
 # Solved Problems
 
+## Day 9 — 22 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| — | [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-22/gfg-merge-sort.png) |
+| 912 | [Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/) | Medium | LeetCode | [View](screenshots/2026-10-22/lc-0912-sort-an-array.png) |
+| — | [Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | Easy | GeeksforGeeks | [View](screenshots/2026-10-22/gfg-missing-and-repeating.png) |
+
+
 ## Day 8 — 21 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
@@ -70,4 +79,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 30 problems**
+**Total: 33 problems**
