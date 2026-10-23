@@ -1,5 +1,13 @@
 # Solved Problems
 
+## Day 10 — 23 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| — | [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-23/gfg-quick-sort.png) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | LeetCode | [View](screenshots/2026-10-23/lc-0121-best-time-to-buy-and-sell-stock.png) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | LeetCode | [View](screenshots/2026-10-23/lc-0042-trapping-rain-water.png) |
+
 ## Day 9 — 22 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
@@ -79,4 +87,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 33 problems**
+**Total: 36 problems**
