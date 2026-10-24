@@ -5,6 +5,8 @@
 | # | Problem | Difficulty | Platform | Screenshot |
 |---|---|---|---|---|
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | LeetCode | [View](screenshots/2026-10-24/lc-0167-two-sum-ii-input-array-is-sorted.png) |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | LeetCode | [View](screenshots/2026-10-24/lc-0152-maximum-product-subarray.png) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | LeetCode | [View](screenshots/2026-10-24/lc-0001-two-sum.png) |
 
 ## Day 10 — 23 October 2026
 
@@ -92,4 +94,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 37 problems**
+**Total: 39 problems**
