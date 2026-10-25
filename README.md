@@ -20,8 +20,9 @@ My daily DSA practice on LeetCode and GeeksforGeeks, documented with accepted-su
 | 22 Oct 2026 | 3 | Sorting, Merge Sort, Arrays |
 | 23 Oct 2026 | 3 | Sorting, Arrays, Stock Buy and Sell, Trapping Rain Water |
 | 24 Oct 2026 | 3 | Arrays, Two Pointers, Prefix/Suffix Products |
+| 25 Oct 2026 | 1 | Arrays, Two Pointers |
 
-**Total problems documented:** 39  
-**Active days:** 11
+**Total problems documented:** 40  
+**Active days:** 12
 
 See [Solved Problems](PROGRESS.md) for problem names, numbers, and screenshots.
