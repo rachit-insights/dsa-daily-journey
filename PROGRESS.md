@@ -1,5 +1,11 @@
 # Solved Problems
 
+## Day 12 — 25 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | LeetCode | [View](screenshots/2026-10-25/lc-0026-remove-duplicates-from-sorted-array.png) |
+
 ## Day 11 — 24 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
@@ -94,4 +100,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 39 problems**
+**Total: 40 problems**
