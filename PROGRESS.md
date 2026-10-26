@@ -1,53 +1,59 @@
 # Solved Problems
 
+## Day 13 — 26 October 2026
+
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| — | [Segregate 0s and 1s](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | GeeksforGeeks | [View](screenshots/2026-10-26/gfg-segregate-0s-and-1s.png) |
+
 ## Day 12 — 25 October 2026
 
-| # | Problem | Difficulty | Platform | Screenshot |
-|---|---|---|---|---|
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | LeetCode | [View](screenshots/2026-10-25/lc-0026-remove-duplicates-from-sorted-array.png) |
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | LeetCode | [View](screenshots/2026-10-25/lc-0026-remove-duplicates-from-sorted-array.png) |
 
 ## Day 11 — 24 October 2026
 
-| # | Problem | Difficulty | Platform | Screenshot |
-|---|---|---|---|---|
-| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | LeetCode | [View](screenshots/2026-10-24/lc-0167-two-sum-ii-input-array-is-sorted.png) |
-| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | LeetCode | [View](screenshots/2026-10-24/lc-0152-maximum-product-subarray.png) |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | LeetCode | [View](screenshots/2026-10-24/lc-0001-two-sum.png) |
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | LeetCode | [View](screenshots/2026-10-24/lc-0167-two-sum-ii-input-array-is-sorted.png) |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | LeetCode | [View](screenshots/2026-10-24/lc-0152-maximum-product-subarray.png) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | [View](screenshots/2026-10-24/lc-0001-two-sum.png) |
 
 ## Day 10 — 23 October 2026
 
-| # | Problem | Difficulty | Platform | Screenshot |
-|---|---|---|---|---|
-| — | [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-23/gfg-quick-sort.png) |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | LeetCode | [View](screenshots/2026-10-23/lc-0121-best-time-to-buy-and-sell-stock.png) |
-| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | LeetCode | [View](screenshots/2026-10-23/lc-0042-trapping-rain-water.png) |
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| — | [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) | GeeksforGeeks | [View](screenshots/2026-10-23/gfg-quick-sort.png) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | [View](screenshots/2026-10-23/lc-0121-best-time-to-buy-and-sell-stock.png) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | [View](screenshots/2026-10-23/lc-0042-trapping-rain-water.png) |
 
 ## Day 9 — 22 October 2026
 
-| # | Problem | Difficulty | Platform | Screenshot |
-|---|---|---|---|---|
-| — | [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-22/gfg-merge-sort.png) |
-| 912 | [Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/) | Medium | LeetCode | [View](screenshots/2026-10-22/lc-0912-sort-an-array.png) |
-| — | [Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | Easy | GeeksforGeeks | [View](screenshots/2026-10-22/gfg-missing-and-repeating.png) |
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| — | [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) | GeeksforGeeks | [View](screenshots/2026-10-22/gfg-merge-sort.png) |
+| 912 | [Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/) | LeetCode | [View](screenshots/2026-10-22/lc-0912-sort-an-array.png) |
+| — | [Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | GeeksforGeeks | [View](screenshots/2026-10-22/gfg-missing-and-repeating.png) |
 
 ## Day 8 — 21 October 2026
 
-| # | Problem | Difficulty | Platform | Screenshot |
-|---|---|---|---|---|
-| — | [Reverse Linked List](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | Easy | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-reverse-linked-list.png) |
-| — | [Detect Loop in Linked List](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-detect-loop-in-linked-list.png) |
-| — | [First Node of Loop in Linked List](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-first-node-of-loop-in-linked-list.png) |
-| — | [Move Last to Front of a Linked List](https://www.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1) | Easy | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-move-last-to-front-of-linked-list.png) |
-| — | [Search in a K-Step Array](https://www.geeksforgeeks.org/problems/search-in-an-array-where-adjacent-differ-by-at-most-k/1) | Easy | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-search-in-a-k-step-array.png) |
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| — | [Reverse Linked List](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-reverse-linked-list.png) |
+| — | [Detect Loop in Linked List](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-detect-loop-in-linked-list.png) |
+| — | [First Node of Loop in Linked List](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list/1) | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-first-node-of-loop-in-linked-list.png) |
+| — | [Move Last to Front of a Linked List](https://www.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1) | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-move-last-to-front-of-linked-list.png) |
+| — | [Search in a K-Step Array](https://www.geeksforgeeks.org/problems/search-in-an-array-where-adjacent-differ-by-at-most-k/1) | GeeksforGeeks | [View](screenshots/2026-10-21/gfg-search-in-a-k-step-array.png) |
 
 ## Day 7 — 20 October 2026
 
-| # | Problem | Difficulty | Platform | Screenshot |
-|---|---|---|---|---|
-| — | [Palindrome String](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Basic | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-palindrome-string.png) |
-| — | [First and Last in Sorted](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-first-and-last-in-sorted.png) |
-| — | [Middle of Three](https://www.geeksforgeeks.org/problems/middle-of-three2926/1) | Basic | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-middle-of-three.png) |
-| — | [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-majority-element.png) |
+| # | Problem | Platform | Screenshot |
+|---|---|---|---|
+| — | [Palindrome String](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-palindrome-string.png) |
+| — | [First and Last in Sorted](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-first-and-last-in-sorted.png) |
+| — | [Middle of Three](https://www.geeksforgeeks.org/problems/middle-of-three2926/1) | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-middle-of-three.png) |
+| — | [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) | GeeksforGeeks | [View](screenshots/2026-10-20/gfg-majority-element.png) |
 
 ## Day 6 — 19 October 2026
 
@@ -100,4 +106,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 40 problems**
+**Total: 41 problems**
