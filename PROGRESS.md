@@ -1,5 +1,11 @@
 # Solved Problems
 
+## Day 15 — 28 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | LeetCode | [View](screenshots/2026-10-28/lc-0018-4sum.png) |
+
 ## Day 14 — 27 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
@@ -112,4 +118,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 42 problems**
+**Total: 43 problems**
