@@ -1,5 +1,11 @@
 # Solved Problems
 
+## Day 16 — 29 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| — | [Height of Binary Tree](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) | Easy | GeeksforGeeks | [View](screenshots/2026-10-29/gfg-height-of-binary-tree.png) |
+
 ## Day 15 — 28 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
@@ -115,6 +121,11 @@
 | — | [Bubble Sort](https://www.geeksforgeeks.org/dsa/bubble-sort-algorithm/) | GeeksforGeeks | [View](screenshots/2026-10-14/bubble-sort.png) |
 | — | [Selection Sort](https://www.geeksforgeeks.org/dsa/selection-sort-algorithm-2/) | GeeksforGeeks | [View](screenshots/2026-10-14/selection-sort.png) |
 | — | [Insertion Sort](https://www.geeksforgeeks.org/dsa/insertion-sort-algorithm/) | GeeksforGeeks | [View](screenshots/2026-10-14/insertion-sort.png) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
+
+**Total: 44 problems**
+
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
