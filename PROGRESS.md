@@ -1,5 +1,11 @@
 # Solved Problems
 
+## Day 17 — 30 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| — | [Diameter of Binary Tree](https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1) | Medium | GeeksforGeeks | [View](screenshots/2026-10-30/gfg-diameter-of-binary-tree.png) |
+
 ## Day 16 — 29 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
@@ -124,9 +130,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 44 problems**
-
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
-| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
-
-**Total: 43 problems**
+**Total: 45 problems**
