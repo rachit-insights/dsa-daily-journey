@@ -1,5 +1,11 @@
 # Solved Problems
 
+## Day 18 — 31 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | LeetCode | [View](screenshots/2026-10-31/lc-0217-contains-duplicate.png) |
+
 ## Day 17 — 30 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
@@ -130,4 +136,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | [View](screenshots/2026-10-14/lc-21-merge-two-sorted-lists.png) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | [View](screenshots/2026-10-14/lc-83-remove-duplicates-from-sorted-list.png) |
 
-**Total: 45 problems**
+**Total: 46 problems**
