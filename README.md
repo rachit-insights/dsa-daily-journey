@@ -26,8 +26,9 @@ My daily DSA practice on LeetCode and GeeksforGeeks, documented with accepted-su
 | 28 Oct 2026 | 1 | Arrays, Sorting, Two Pointers |
 | 29 Oct 2026 | 1 | Binary Trees, Recursion |
 | 30 Oct 2026 | 1 | Binary Trees, Recursion, Diameter |
+| 31 Oct 2026 | 1 | Arrays, Hashing |
 
-**Total problems documented:** 45  
-**Active days:** 17
+**Total problems documented:** 46  
+**Active days:** 18
 
 See [Solved Problems](PROGRESS.md) for problem names, numbers, and screenshots.
